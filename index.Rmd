@@ -1,9 +1,9 @@
 ---
-title: "वेन्डोर प्रबंधन "
-subtitle: "सतर्कता पाक्षिक के प्रीपेक्ष मे "
+title: "MOU Targets of Rolling Stock Vertical"
+subtitle: " रोलिंग स्टॉक वर्टिकल के लक्ष्य की प्रगति का ब्योरा "
 author: " गोपाल कुमार , प्रमुख कार्यकारी निदेशक (रोलिंग स्टॉक) "
-institute: "RDSO, Lucknow"
-date: "2022-11-2 (updated: `r Sys.Date()`)"
+institute: "अनुसंधान अभिकल्प और मानक संगठन (RDSO), Lucknow"
+date: "2023-01-12 ( आज   दिनांक : `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
