@@ -63,15 +63,23 @@ Image credit: [Wikimedia Commons](https://openmarkets.in/wp-content/uploads/2012
 # प्रस्तुति का संक्षिप्त विवरण 
 
 
+
+# वेन्डोर डेवलपमेंट 
+
+
+# वेन्डोर
+
+This **.red[simple]** .white.bg-purple[demo]
+_.orange[shows]_ the colors .green[in action].
+
+
+
 ---
 class: inverse, middle, center
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Naruto_Shiki_Fujin.svg)
+background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVande_Bharat_Express&psig=AOvVaw3tWJvOJ_kPONyIPNxJ8eFx&ust=1673668194061000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJChtoPSw_wCFQAAAAAdAAAAABAE)
 background-size: contain
 
-# Rolling Stock Vertical
-
-## RDSO, Lucknow
-
+# Rolling Stock
 
 ---
 class: inverse
@@ -95,8 +103,6 @@ background-image: url(https://www.financialexpress.com/wp-content/uploads/2019/0
 ### Speed Certificates : Motive Power Directorate issued 194 speed certificates in calander year 2022
 
 ---
-class: inverse
-background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fswarajyamag.com%2Finfrastructure%2Frailways-gear-up-for-mass-production-of-axles-and-wheels-for-wagons-and-lhb-coaches&psig=AOvVaw2CtO51brDiOo7gaJGCpp9U&ust=1673668383702000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCV9N3Sw_wCFQAAAAAdAAAAABAE)
 
 
 
@@ -117,8 +123,7 @@ A summary sheet enclosed as Annexure-A.
 - In 2017-18, only 9 variants of wagons constituting 36% of  wagon population were fit upto 100 Kmph 
 
 ---
-class: inverse
-background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fswarajyamag.com%2Finfrastructure%2Frailways-gear-up-for-mass-production-of-axles-and-wheels-for-wagons-and-lhb-coaches&psig=AOvVaw2CtO51brDiOo7gaJGCpp9U&ust=1673668383702000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCV9N3Sw_wCFQAAAAAdAAAAABAE)
+
 
 ##	Development of New Wagons
 
@@ -190,21 +195,11 @@ g.	Alumina/Cement/Fly ash: BTFC
 - Designed within IRSOD, can operate on IR network unlike BTAP wagon
 - Prototype under manufacturing at M/s BWT
 
-.footnote[
-[1]  see the Wagon Master Diagrams for all wagons of IR
-]
-
 ---
-class: inverse, middle, center
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Naruto_Shiki_Fujin.svg)
-background-size: contain
 
 # Carriage directorate
 
 ---
-class: inverse, middle, center
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Naruto_Shiki_Fujin.svg)
-background-size: contain
 
 ## Summarised achivements of carriage directorate during 2022
 
@@ -221,9 +216,7 @@ background-size: contain
 5. Tender schedule for off-take agreement with prospective supplier for assured supply of wheels for rolling stock for next 20 years
 
 ---
-class: inverse, middle, center
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Naruto_Shiki_Fujin.svg)
-background-size: contain
+
 
 6. Introduction of New Rolling Stock- Layouts for following Rolling Stock(s) are being designed and developed and issued for manufacturing of trains/coaches
     1. **Freight EMU on Vande Bharat** platform
@@ -238,9 +231,6 @@ background-size: contain
    11. Preparation of crashworthy headstock for LHB coaches
 
 ---
-class: inverse, middle, center
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Naruto_Shiki_Fujin.svg)
-background-size: contain
 
 7. Issues related with Train operation  analysed and reports submitted
     1. Safety aspects of ICF coaches
@@ -257,16 +247,10 @@ background-size: contain
 4. Underslung MEMU with three phase electrics
 
 ---
-class: inverse, middle, center
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Naruto_Shiki_Fujin.svg)
-background-size: contain
 
 15. All planned COCRs are completed and speed certificate for operation issued
 
 ---
-class: inverse, middle, center
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Naruto_Shiki_Fujin.svg)
-background-size: contain
 
 # Vendor Development in RDSO
 
@@ -281,9 +265,7 @@ background-size: contain
 This is reflected in the following achievements:
 
 ---
-class: inverse, middle, center
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Naruto_Shiki_Fujin.svg)
-background-size: contain
+
 
 1.	First time less than 100 cases of vendor registration are pending for disposal with RDSO at the end of Dec’22 as against 232 cases at the end of Dec’22.
 
@@ -297,10 +279,6 @@ background-size: contain
 4. With the active engagement to develop vendors especially for the items having less source, the total items with less than 3 vendors have now reduced to 6 in Dec’22 as against 29 items in Dec'21.
 
 ---
-class: inverse, middle, center
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Naruto_Shiki_Fujin.svg)
-background-size: contain
-
 ## Inspection and Logistics (Mechanical)
 
 1. Quantity of Wagon Production final inspection for railways and private wagon builders during Jan’22 to Dec’22 16633 as against 11174 that Jan’21 to Dec’21.
@@ -309,12 +287,6 @@ background-size: contain
 
 3. A country wide Joint verification exercise at the major depots of the Railways were organised jointly with the Railways covering over 65 major depots/sick-lines/workshops for reconciliation of warranty claims with respect to EM Pads & coupler components involving more than 35 SSEs/Officers of field units. This proved helpful in liquidation of warranty replacement of Railways long pending with various firms.
 
----
-class: inverse, middle, center
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Naruto_Shiki_Fujin.svg)
-background-size: contain
 # Rolling Stock ends
 
 Thank you !
-
-
